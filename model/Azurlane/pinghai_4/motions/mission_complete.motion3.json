@@ -3,7 +3,7 @@
   "Meta": {
     "Duration": 5.17,
     "Fps": 30.0,
-    "Loop": true,
+    "Loop": false,
     "AreBeziersRestricted": true,
     "CurveCount": 194,
     "TotalSegmentCount": 601,
